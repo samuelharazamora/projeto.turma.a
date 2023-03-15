@@ -1,10 +1,11 @@
 # samuel Zamora
- 
- ---
 
-## dados pessoais
 
-CPF:XXXXXXXXXXXX
-RG:XXXXXXXXXXXX
-E-Mail.com:XXXXXXXXXXX
-Telefone:XXXXXXXXXX
+---
+
+## DADOS PESSOAIS
+
+CPF: XXXXXXXX-XX
+RG: XXXXXXXXXXX
+Telefone: XXXXXXXXXXXX
+E-Mail: XXXXXXXXX
